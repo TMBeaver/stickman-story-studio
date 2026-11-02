@@ -14,7 +14,7 @@ The target is a full-color illustrated environment, an expressive white stickman
 
 ## Start here
 
-Current production: [The Man Who Sold His Happiest Memory](stories/the-man-who-sold-his-happiest-memory/README.md) — a complete English script and sixty-scene plan for one ten-minute film and ten connected one-minute episodes. Script review and voice timing are pending; no story-specific generation has been submitted.
+Current production: [The Man Who Sold His Happiest Memory](stories/the-man-who-sold-his-happiest-memory/README.md) — an English ten-minute film and ten connected one-minute episodes. The first-take production used 57 successful Flow clips and three local editorial replacements. See the [production findings](stories/the-man-who-sold-his-happiest-memory/PRODUCTION_RESULT.md) for costs, verification and continuity limitations. Generated film files remain local pending user review.
 
 1. Read [the production workflow](docs/WORKFLOW.md).
 2. Read [the approved sample prompt](prompts/cozy-cafe-approved.txt) and [sample evidence](examples/cozy-cafe/manifest.json).

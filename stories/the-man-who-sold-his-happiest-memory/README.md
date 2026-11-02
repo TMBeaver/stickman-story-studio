@@ -11,7 +11,7 @@ An original emotional fantasy mystery, designed as **one ten-minute master and t
 - [Machine-readable scene ledger](production.json)
 - [Clean narration transcript](narration/master.txt), with individual episode transcripts in the same folder
 
-**Status: script and editorial planning draft, awaiting user review and an actual voice audition. No generation submitted for this story and no credits spent.** All scene times are planning targets; exact one-minute delivery must be checked against measured narration and the final edit.
+**Status: first-take production assembled for user review.** Ten measured one-minute edits use Google narration and locally timed English captions. See [production findings](PRODUCTION_RESULT.md) for the actual results; `production.json` preserves the original planning ledger, not a claim of accepted generation quality.
 
 ## Premise
 
