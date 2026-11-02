@@ -30,3 +30,9 @@ Local QA records include full decoding, frame counts, subtitle timings, source t
 The accepted ten-second example did not guarantee long-form continuity. Despite repeated cast prompts, first takes vary in clothing, hair, anatomy, bag ownership and background cast. The father is sometimes drawn as a detailed human. Some intended prop transfers and actions are only implied by narration. A few accidental technical headings were removed by cropping their top strip in the edit.
 
 These findings mean the result should be reviewed as a first-take narrative film, not advertised as flawless character-consistent animation. Further improvements should target specifically identified scenes and require a separate retry budget. Generated films, account details and private production URLs are excluded from this public repository.
+
+## TikTok delivery correction
+
+The destination was clarified after landscape production: TikTok, vertical 9:16. A separate 1080x1920 adaptation reuses the clean picture edits and verified narration, retains the complete wide scenes over an animated blurred extension, and re-renders larger English captions with portrait margins. It uses no additional generation credits. The original landscape delivery remains available.
+
+This layout preserves important group actions; it does not turn the source into natively composed portrait shots. Future videos in this series should specify 9:16 before script blocking and generation, use vertical depth and shot-specific placement, and validate the phone layout before spending the full batch budget.
