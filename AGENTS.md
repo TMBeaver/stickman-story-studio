@@ -7,6 +7,7 @@ Read README.md, docs/WORKFLOW.md, docs/LONG_FORM.md and the selected style's ref
 - Full-color 2D Cozy Storytelling, expressive minimalist white characters, purposeful animation and cinematic framing are accepted.
 - Natural English storytelling narration is accepted. The old Microsoft David Desktop voice and crude procedural door animation are not the quality target.
 - The current series is intended for TikTok: future shots must be composed natively in vertical 9:16. Deliver 1080x1920 edits, ten exact sixty-second parts, and portrait-safe captions. The first landscape film can be adapted with preserved wide scenes and background extension; do not describe that adaptation as native portrait generation.
+- For uploads, name individual files Part 1 through Part 10 in story order. On screen show only the chapter title, without PART numbering or the overall series heading. Use larger, raised chapter titles and captions; the current upload edit uses 64px text, chapter title at y=300 and caption top at y=1190 on a 1080x1920 canvas.
 - Longer films are composed from approved short clips. Preserve a coherent story, cast, important props, travel direction and narrator across cuts.
 - Prefer to operate generation and assembly for the user when the required tools and authorization are available. Do not promise browser access before verifying it.
 
