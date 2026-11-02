@@ -14,6 +14,8 @@ The target is a full-color illustrated environment, an expressive white stickman
 
 ## Start here
 
+Current production: [The Man Who Sold His Happiest Memory](stories/the-man-who-sold-his-happiest-memory/README.md) — a complete English script and sixty-scene plan for one ten-minute film and ten connected one-minute episodes. Script review and voice timing are pending; no story-specific generation has been submitted.
+
 1. Read [the production workflow](docs/WORKFLOW.md).
 2. Read [the approved sample prompt](prompts/cozy-cafe-approved.txt) and [sample evidence](examples/cozy-cafe/manifest.json).
 3. For a longer film, follow [long-form production](docs/LONG_FORM.md) and fill in [the scene manifest template](examples/scene-manifest.template.json).
