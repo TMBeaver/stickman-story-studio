@@ -1,0 +1,37 @@
+{
+  "title": "A Moment for Yourself",
+  "provider": "Google Flow",
+  "model": "Omni 1.1 Flash",
+  "style": "Cozy Storytelling",
+  "generation_date": "2026-11-02",
+  "output": "video.mp4",
+  "prompt": "../../prompts/cozy-cafe-approved.txt",
+  "credit_quote": 15,
+  "generation_count": 1,
+  "funding": "free account credits; no paid subscription purchased for the test",
+  "video": {
+    "width": 1280,
+    "height": 720,
+    "fps": 24,
+    "codec": "h264",
+    "container_duration_seconds": 10.026667
+  },
+  "audio": {
+    "codec": "aac",
+    "source": "generated with video",
+    "requested_narration": "He kept checking his phone. Then he put it down, and finally noticed the morning."
+  },
+  "verification": {
+    "full_decode": "pass",
+    "chronological_encoded_frames": "inspected",
+    "audio_stream": "present",
+    "assistant_listening": "not independently certified"
+  },
+  "user_acceptance": "User explicitly accepted the result as the desired direction.",
+  "known_visual_limitations": [
+    "Head appears disconnected from the torso in sampled frames.",
+    "Hands are more detailed than the requested rounded shapes."
+  ],
+  "private_data": "Account identifiers and private Flow project links intentionally omitted.",
+  "sha256": "93b32a555148e30192e7c5d1c277695124bb536e87c6b0976dd7eb165d2cd112"
+}

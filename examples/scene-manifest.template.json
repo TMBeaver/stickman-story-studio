@@ -1,0 +1,36 @@
+{
+  "schema": "stickman-story-studio-production-v1",
+  "status": "planning-template-not-generated",
+  "title": "New story",
+  "target_seconds": 60,
+  "aspect_ratio": "16:9",
+  "style": "A4 Cozy Storytelling",
+  "narration_language": "en",
+  "cast_anchor": "Define the complete approved character design before generation.",
+  "voice_strategy": "Test one fixed offscreen narrator across adjacent clips before full production.",
+  "credit_budget": {"estimated_one_take_minimum":90,"authorized_limit":null,"quoted_total":0,"charged_total":null},
+  "script_approval": null,
+  "sample_approval": null,
+  "scenes": [
+    {
+      "id": "scene-001",
+      "editorial_start": 0,
+      "target_seconds": 10,
+      "narration": "",
+      "setting": "",
+      "first_frame_state": "",
+      "actions": [],
+      "final_state": "",
+      "model": "Omni 1.1 Flash",
+      "resolution": "720p",
+      "output_count": 1,
+      "live_credit_quote": null,
+      "job_status": "not-submitted",
+      "takes": [],
+      "accepted_take": null,
+      "trim_in_seconds": null,
+      "trim_out_seconds": null,
+      "qa": {"visual": "pending","audio":"pending","technical":"pending"}
+    }
+  ]
+}

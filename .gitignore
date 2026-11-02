@@ -1,0 +1,13 @@
+node_modules/
+.env
+.env.*
+!.env.example
+*.log
+*.partial.mp4
+*.crdownload
+__pycache__/
+projects/
+private/
+output/
+.DS_Store
+Thumbs.db
